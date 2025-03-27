@@ -17,5 +17,6 @@ The teacher would then ask them to discuss their vacation plans in their small g
 The students would then take turn expanding that story, for example:  
 1. "If I could travel anywhere, I would travel to Hawaii."  
 2. "If I went to Hawaii, I could relax on the beach."  
-2. "If I didn't have to go to work, I would explore Europe."  
+2. "If I didn't have to go to work, I would explore Europe."   
+
 Afterwords, the students could present their dream vacations to the class.
