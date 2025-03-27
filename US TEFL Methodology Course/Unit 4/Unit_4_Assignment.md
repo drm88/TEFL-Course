@@ -8,8 +8,6 @@ Teacher passes out a worksheet with sentences that are missing verbs. Students m
 2. They ____ *(saw)* a scary movie.
 3. We ____ *(walk)* to the park this morning.  
 
-<<<<<<< HEAD
 Alternatively a word bank could be utilized to provide some extra challenge by requiring the students to identify the correct infinitive verb.
-=======
-Alternatively a word bank could be utilized to provide some extra challenge by requiring the students to identify the correct infinitive verb.
->>>>>>> 84fd3dd92e3bfdb23d880ddfaeb4868dd7665ceb
+
+**Task 2**
