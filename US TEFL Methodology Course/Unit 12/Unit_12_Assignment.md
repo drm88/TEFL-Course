@@ -27,9 +27,16 @@
         * She ______ (study) when her friend ______ (arrive).
     * Students present the answers to the class, correct the answers as a class.
 
-4. Production - Free (15-20 mins)
+4. Production - Free (15-20 mins) Student - Student, Group
 
     * Do a group storytelling
     * Divide the class into 2 groups and provide an prompt to each group to kick off the story, eg. "Last night I was walking my dog when..."
     * Students will then go around the circle and continue the story, encourage them to come up with fun unexpected interruptions!
     * Have each group tell their story to the class afterwords.
+
+5. Wrap up (~5 mins) Teacher - Student
+
+    * Briefly go over any common errors errors and correct them as a class
+    * Recap the TL by asking a few final concept checking questions like "What were you doing yesterday when something unexpected happened?"
+    * For homework ask students to note if any of their activities are unexpectedly interrupted, so they can share them next time class meets.
+    * Praise the students for their hard work and participation!
