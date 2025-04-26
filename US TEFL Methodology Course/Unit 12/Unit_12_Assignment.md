@@ -14,6 +14,22 @@
     * Highlight the past continuous form here, Subject + was/were + verb, underline this part of the sentence. Make sure to point out the linking words here too.
     * To illustrate the meaning of interruption, draw a timeline on the board: show the first (longer, past continuous) activity occurring, and then the interruption (shorter, past simple) happening during that activity.
     * Finish up by asking a few concept checking questions:
-        1. Did the phone call happen during cooking or after cooking? (During)
-        2. Did I finish cooking? (Yes, but it was interrupted)
-        3. Was I able to finish watching TV? (No, the power was out)
+        * Did the phone call happen during cooking or after cooking? (During)
+        * Did I finish cooking? (Yes, but it was interrupted)
+        * Was I able to finish watching TV? (No, the power was out)
+
+3. Practice - Controlled (10 mins) Paired work
+
+    * Divide the students up into pairs.
+    * Have the groups complete a gap fill worksheet. Examples:
+        * I ______ (walk) to school when it ______ (start) to rain.
+        * They ______ (have) dinner when the doorbell ______ (ring).
+        * She ______ (study) when her friend ______ (arrive).
+    * Students present the answers to the class, correct the answers as a class.
+
+4. Production - Free (15-20 mins)
+
+    * Do a group storytelling
+    * Divide the class into 2 groups and provide an prompt to each group to kick off the story, eg. "Last night I was walking my dog when..."
+    * Students will then go around the circle and continue the story, encourage them to come up with fun unexpected interruptions!
+    * Have each group tell their story to the class afterwords.
