@@ -10,7 +10,7 @@
 
     * Narrate a short story about your previous day, such as: "Last night, I was cooking dinner when my friend called.", or "I was watching TV when the power went out." Write these sentences on the board.
     * Be mindful of the pronunciation and stress on the continuous vs interrupting actions here. Demonstrate that linking words (while, when) can have a bit more intonation on them.
-    * Ask a few guided questions to ge the students talking: "What was I doing when my friend called?", "Was I cooking before or after the phone call?", "Did the TV stop because of the power outage?"
+    * Ask a few guided questions to get the students talking: "What was I doing when my friend called?", "Was I cooking before or after the phone call?", "Did the TV stop because of the power outage?"
     * Highlight the past continuous form here, Subject + was/were + verb, underline this part of the sentence. Make sure to point out the linking words here too.
     * To illustrate the meaning of interruption, draw a timeline on the board: show the first (longer, past continuous) activity occurring, and then the interruption (shorter, past simple) happening during that activity.
     * Finish up by asking a few concept checking questions:
