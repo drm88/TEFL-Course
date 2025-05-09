@@ -38,7 +38,6 @@
 
 5. Wrap up (~5 mins) Teacher - Student
 
-    * Briefly go over any common errors errors and correct them as a class
-    * Recap the TL by asking a few final concept checking questions like "What were you doing yesterday when something unexpected happened?"
+    * Briefly go over any common errors errors and correct them as a class to reinforce the TL.
     * For homework ask students to write 2 short dialogues where someone is interrupted while doing something, they can share them next time class meets.
     * Praise the students for their hard work and participation!
