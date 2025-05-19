@@ -4,7 +4,7 @@
 
 This lesson will be conducted over Zoom, or similar software.
 
-Target Language (TL): Useful phrases related to getting around in a city:
+Target Language: Useful phrases related to getting around in a city:
 
 * "How do I get to...?"
 * "Is it far?"
